@@ -1,4 +1,4 @@
-# Sign-Alphabet-Classifier
+# Sign Alphabet Classifier
 In this repo,I'm going to show my few works on custom architectures instead of using already existing architectures like resnet or alexnet and build and train them from scratch.
 .
 The dataset i'm using is ALS(American Sign Language)-2019.
