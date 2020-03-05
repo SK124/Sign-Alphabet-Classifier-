@@ -44,7 +44,7 @@ Custom CNN has :
 
 Conclusion we can draw here is sometimes simpler CNN can prouce similar results infact better(sometimes) compared to a complex deeper model,also it depends on the dataset you are working,there are datasets and problems where features are of more importance in which second architecture might perform better,but in the current problem **Custom CNN** performs a bit better. 
  
- You can through the code and play with it
+ You can go through the code and play with it
  https://colab.research.google.com/drive/15KyXa3U36XfFByAMSRjfymsNfD7B3uK6
  
 **Downloaing Kaggle Dataset into Colab**
